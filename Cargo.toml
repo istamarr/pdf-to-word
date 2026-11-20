@@ -1,0 +1,7 @@
+[package]
+name = "pdf-to-word"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+asposepdf = "1.26.7"
